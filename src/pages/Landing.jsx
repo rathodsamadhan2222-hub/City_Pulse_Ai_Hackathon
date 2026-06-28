@@ -212,7 +212,7 @@ export default function Landing() {
         <div className="max-w-[var(--spacing-container-max)] mx-auto px-[var(--spacing-margin-desktop)] flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex flex-col items-center md:items-start">
             <div className="text-label-md font-black text-[var(--color-on-surface)] mb-2">CityPulse AI</div>
-            <p className="text-body-md text-[var(--color-on-surface-variant)] text-center md:text-left">© 2024 CityPulse AI. Engineering smarter urban futures.</p>
+            <p className="text-body-md text-[var(--color-on-surface-variant)] text-center md:text-left">© 2026 CityPulse AI. Engineering smarter urban futures.</p>
           </div>
           <div className="flex gap-8">
             {footerLinks.map((link) => (
