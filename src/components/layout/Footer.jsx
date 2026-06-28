@@ -6,7 +6,7 @@ export default function Footer({ className = '' }) {
       <div className="max-w-[var(--spacing-container-max)] mx-auto px-[var(--spacing-margin-desktop)] flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="flex flex-col items-center md:items-start gap-2">
           <span className="text-label-md font-black text-[var(--color-on-surface)] tracking-tighter">CityPulse AI</span>
-          <p className="text-label-sm text-[var(--color-on-surface-variant)]">© 2024 CityPulse AI. Engineering smarter urban futures.</p>
+          <p className="text-label-sm text-[var(--color-on-surface-variant)]">© 2026 CityPulse AI. Engineering smarter urban futures.</p>
         </div>
         <div className="flex gap-8">
           {footerLinks.map((link) => (
